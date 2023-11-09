@@ -84,6 +84,7 @@ function Signup() {
                         height: 50,
                         borderColor: "#fff",
                         borderWidth: 1,
+                        color: 'white',
                         borderRadius: 8,
                         paddingLeft: 10,
                         marginBottom: 15,
@@ -101,6 +102,7 @@ function Signup() {
                         borderWidth: 1,
                         borderRadius: 8,
                         paddingLeft: 10,
+                        color: 'white',
                         marginBottom: 15,
                         backgroundColor: 'rgba(255, 255, 255, 0.2)',
                     }}
@@ -116,6 +118,7 @@ function Signup() {
                         borderColor: "#fff",
                         borderWidth: 1,
                         borderRadius: 8,
+                        color: 'white',
                         paddingLeft: 10,
                         marginBottom: 15,
                         backgroundColor: 'rgba(255, 255, 255, 0.2)',
